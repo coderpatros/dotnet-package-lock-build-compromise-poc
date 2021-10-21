@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETCoreApp,Version=v5.0": {
+      "System.Text.Json": {
+        "type": "Direct",
+        "requested": "[4.6.0, )",
+        "resolved": "4.6.0",
+        "contentHash": "4F8Xe+JIkVoDJ8hDAZ7HqLkjctN/6WItJIzQaifBwClC7wmoLSda/Sv2i6i1kycqDb3hWF4JCVbpAweyOKHEUA=="
+      }
+    }
+  }
+}
